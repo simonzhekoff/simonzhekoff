@@ -2,7 +2,7 @@
 <h2 align="center">Passionate System Administrator and currently diving into the DevOps world</h3>
 
 - 🌱 I’m currently learning **Automation, CI/CD, Configuration Management, Clusterization, Conteinerization, Provision Management, IaS, Python, Bash** 
-- 💬 Ask me about **System Administration, Computer Networks, Virtualization, Cloud Technologies, Linux, Wordpress**
+- 💬 Ask me about **System Administration, Computer Networks, Virtualization, Cloud Technologies, Linux, Windows, Wordpress**
 
 
 <h2 align="left">Languages and Tools:</h2>
