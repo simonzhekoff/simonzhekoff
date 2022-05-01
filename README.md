@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simeon Zhekov</h1>
 <h2 align="center">Passionate System Administrator and currently diving into the DevOps world</h3>
 
-- 🌱 I’m currently learning **Automation, CI/CD, Configuration Management, Clusterization, Conteinerization, Provision Management, IaS, Python, Bash** 
-- 💬 Ask me about **System Administration, Computer Networks, Virtualization, Cloud Technologies, Linux, Windows, Wordpress**
+- 🌱 I’m currently learning **Automation, CI/CD, Configuration Management, Conteinerization, Provision Management, IaC, Python, Bash, Cloud** 
+- 💬 Ask me about **System Administration, Computer Networks, Virtualization, Cloud Technologies, Linux, Windows, Wordpress, CI/CD, IaC**
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -35,6 +35,7 @@
 <tr style="height: 23px;">
 <td style="width: 209.422px; height: 23px;">AWS Essentials</td>
 <td style="width: 216.578px; height: 23px;"><a href="https://softuni.bg/Certificates/Details/113580/055a56a5" target="_blank" title="AWS Essentials">Link</a></td>
+<td style="width: 216.578px; height: 23px;"><a href="https://www.credly.com/badges/fef107ab-b46d-48bd-90aa-ed8de63f53a4/public_url" target="_blank" title="AWS Solutions Architect - Associate">Link</a></td>
 </tr>
 </tbody>
 </table>
