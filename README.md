@@ -48,6 +48,10 @@
 <td style="width: 209.422px; height: 23px;">AWS SysOps Administrator - Associate</td>
 <td style="width: 216.578px; height: 23px;"><a href="https://www.credly.com/badges/2d6bda22-a743-4431-b731-2681eeadb9dc/public_url" target="_blank" title="AWS SysOps Administrator - Associate">Link</a></td>
 </tr>
+<tr style="height: 23px;">
+<td style="width: 209.422px; height: 23px;">AWS Solutions Architect - Professional</td>
+<td style="width: 216.578px; height: 23px;"><a href="https://www.credly.com/badges/f55bfc2a-22e8-4633-877a-f301616cca1b/public_url" target="_blank" title="AWS SysOps Administrator - Associate">Link</a></td>
+</tr>
 </tbody>
 </table>
 </td>
