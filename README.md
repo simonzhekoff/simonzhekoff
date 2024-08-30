@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simeon Zhekov</h1>
-<h2 align="center">Passionate System Administrator and currently diving into the DevOps world</h3>
+<h2 align="center">Senior DevOps Engineer with experience in CI/CD, IaC, Automation and K8s</h3>
 
-- 🌱 I’m currently learning **Automation, CI/CD, Configuration Management, Clusterization, Conteinerization, Provision Management, IaC, Python, Bash** 
-- 💬 Ask me about **System Administration, Computer Networks, Virtualization, Cloud Technologies, Linux, Windows, Wordpress**
+- 🌱 Using technologies as:  **Automation, CI/CD, Configuration Management, Clusterization, Containerization, Provision Management, IaC, Python, Bash** 
+- 💬 Ask me about **System Administration, Computer Networks, Virtualization, Cloud Technologies, Linux, Windows, WordPress, IaC, Automation**
 
 <h2 align="left">Badges</h2>
 <p align="left"> <a href="https://www.credly.com/badges/fef107ab-b46d-48bd-90aa-ed8de63f53a4/public_url" target="_blank"> <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect - Associate" width="120" height="120"/> </a>
